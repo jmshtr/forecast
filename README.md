@@ -1,6 +1,6 @@
- # Weather App in Ruby
+# forecast
 
-This Ruby script uses the OpenWeatherMap API to fetch weather data for a specified city and displays the current weather conditions. It handles exceptions and provides user-friendly error messages.
+forecast uses the OpenWeatherMap API to fetch weather data for a specified city and displays the current weather conditions. It handles exceptions and provides user-friendly error messages.
 
 ## Prerequisites
 
